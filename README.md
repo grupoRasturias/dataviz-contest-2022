@@ -2,9 +2,9 @@
 
 ## About the contest
 
-1.  On **November 1^st^ 2022, the database base will be made publicly available** on [this link](https://drive.google.com/drive/folders/17jmy9er05KDhlGpM6bLfvxA3VSN9bBvA?usp=sharing). Anybody will be able to participate sending a plot made with [R software.](https://www.r-project.org/)
+1.  On **November 1^st 2022, the database base will be made publicly available** on [this link](https://drive.google.com/drive/folders/17jmy9er05KDhlGpM6bLfvxA3VSN9bBvA?usp=sharing). Anybody will be able to participate sending a plot made with [R software.](https://www.r-project.org/)
 
-2.  **The project presentation** will take place between **the day the data is published (November 1^st^, 2022) and 11:59 PM on December 15^th^, 2022**, sending an e-mail to **grupousuariosrasturias\@gmail.com** with the visualization or the url to it, in the preferred format. Name, surname, e-mail, professional/laboral background and country of residence will be specified in the e-mail.\
+2.  **The project presentation** will take place between **the day the data is published (November 1^st, 2022) and 11:59 PM on December 15^th, 2022**, sending an e-mail to **grupousuariosrasturias\@gmail.com** with the visualization or the url to it, in the preferred format. Name, surname, e-mail, professional/laboral background and country of residence will be specified in the e-mail.\
     The subject of the e-mail must include "Third data visualization contest". **A very brief explanatory text in english, can be attached to the graphic.**
 
 3.  The jury will issue its **final decision throught January, 2023**. The declaration will be made public on this repository and our [Twitter](https://twitter.com/grupoRasturias) account, and the winner will be notified by e-mail.
